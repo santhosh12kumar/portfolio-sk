@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Dev Portfolio</h3>
             <p className="text-foreground/60 text-sm">
-              Showcasing my journey as a AI/ML Engineer and Python Fullstack developer.
+              Showcasing my journey as a full-stack developer and problem solver.
             </p>
           </div>
 
@@ -44,12 +44,12 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="C:/Users/asus/Desktop/New folder/developer-portfolio-design-main/Santhosh CV.pdf" className="text-foreground/60 hover:text-foreground transition-colors">
+                <a href="#" className="text-foreground/60 hover:text-foreground transition-colors">
                   Resume
                 </a>
               </li>
               <li>
-                <a href="https://github.com/santhosh12kumar" className="text-foreground/60 hover:text-foreground transition-colors">
+                <a href="#" className="text-foreground/60 hover:text-foreground transition-colors">
                   GitHub
                 </a>
               </li>
@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-border pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-foreground/60">
-          <p>© {currentYear} SK Portfolio. All rights reserved.</p>
+          <p>© {currentYear} Dev Portfolio. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-foreground transition-colors">
               Privacy

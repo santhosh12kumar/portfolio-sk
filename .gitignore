@@ -1,30 +1,27 @@
-# React / TypeScript
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
 /node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
 /build
-/dist
 
-# Env files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Logs
+# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
 
-# Editors
-.vscode
-.idea
+# env files
+.env*
 
-# OS
-.DS_Store
-Thumbs.db
+# vercel
+.vercel
 
-# Python / old files
-*.py
-*.ipynb
-__pycache__/
-venv/
+# typescript
+*.tsbuildinfo
+next-env.d.ts

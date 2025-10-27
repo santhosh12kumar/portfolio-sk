@@ -9,16 +9,16 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 text-foreground/80">
             <p>
-              I’m an AI/ML and Python Developer specializing in OCR, Document Automation, and GenAI-based applications.
-              I love solving real-world problems by building intelligent systems that extract insights, automate workflows, and enhance decision-making.
+              I'm a passionate developer with a deep love for creating beautiful, functional web applications. With
+              expertise in modern web technologies, I transform ideas into elegant digital solutions.
             </p>
             <p>
-              My experience spans building scalable backends, OCR pipelines, GenAI chatbots, and fraud-detection systems using technologies like Python,
-              FastAPI, LangChain, PaddleOCR, OpenCV, NLP, and Machine Learning. I love engineering solutions that are clean, efficient, and production-ready.
+              My journey in development has taken me through various industries—from startups to established
+              companies—where I've honed my skills in building scalable applications and leading technical initiatives.
             </p>
             <p>
-              Beyond coding, I’m constantly learning, tinkering with new tools, and sharing what I discover with the developer community. Curiosity drives me, 
-              challenges inspire me, and building impactful products is what keeps me motivated every day
+              When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or
+              sharing knowledge with the developer community.
             </p>
           </div>
 
@@ -31,11 +31,10 @@ export default function About() {
               </p>
             </div>
             <div className="p-6 bg-background rounded-lg border border-border hover:border-primary/50 transition-colors">
-              <h3 className="font-semibold text-lg mb-2">AI/ML Developer</h3>
+              <h3 className="font-semibold text-lg mb-2">Full-Stack Developer</h3>
               <p className="text-foreground/70 text-sm">
-                Experienced in developing end-to-end AI and machine learning solutions using Python, from data preprocessing
-                and model training to deployment and integration with applications. Skilled in building scalable, efficient,
-                and production-ready ML pipelines.
+                Proficient in both frontend and backend technologies, I build complete solutions from database to user
+                interface.
               </p>
             </div>
             <div className="p-6 bg-background rounded-lg border border-border hover:border-primary/50 transition-colors">
